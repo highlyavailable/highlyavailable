@@ -7,7 +7,7 @@
 
 Welcome to my profile! I'm a senior studing CS & DS at UW-Madison, a lurker on Math/CS Twitter, who is joining U.S. Bank as an entry-level SWE outside of Minneapolis, MN in June '23 🖥️. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:peterbryant.v1@gmail.com)
 
-## Most familiar with ...
+## Most familiar with...
 - Python/Flask
 - SQL
 - C
@@ -16,5 +16,6 @@ Welcome to my profile! I'm a senior studing CS & DS at UW-Madison, a lurker on M
 - JS
 - Basic HTML/CSS
 
-## Some experience with ...
+## Some experience with...
+- 
 - Java
