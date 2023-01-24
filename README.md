@@ -17,5 +17,4 @@ Welcome to my profile! I'm a senior studing CS & DS at UW-Madison, a lurker on M
 - Basic HTML/CSS
 
 ## Some experience with...
-- 
 - Java
