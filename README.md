@@ -34,11 +34,12 @@ I have private repos for most of these courses, if you want to reference my cour
 - CS400 Java Programming III
 - CS354 Machine Organization
 - STAT340 Data Science Modeling II
-- STAT324 Intro Applied Statistics
+- STAT324 Applied Statistics
 - MATH340 Linear Algebra
 - CS320 Data Science Programming II
 - CS300 Java Programming II
-- CS252 Into to Computer Engineering
+- CS252 Intro to Computer Engineering
 - STAT240 Data Science Modeling I
+- MATH240 Discrete Math
 - CS220 Data Science Programming I
 - CS200 Java Programming I
