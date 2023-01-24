@@ -1,4 +1,4 @@
-# Hi I'm Peter 👋
+# Hi I'm Peter👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-PeterBryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
 [![Website Badge](https://img.shields.io/badge/-peterbryant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/)
