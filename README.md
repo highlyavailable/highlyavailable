@@ -20,7 +20,7 @@ Welcome to my profile! I'm a senior studing CS & DS at UW-Madison, a lurker on M
 - Java
 
 ## Undergrad Coursework (CS/DS/MATH)
-I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are not currently enrolled and/or an undergrad UW-Madison student).
+I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently enrolled and/or an undergrad UW-Madison student).
 
 - CS577 Algorithms
 - CS564 Database Management Systems
