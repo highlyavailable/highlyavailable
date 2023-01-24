@@ -9,6 +9,8 @@
 
 Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on Math/CS Twitter, and am joining U.S. Bank as an entry-level SWE outside of Minneapolis, MN in June '23 🖥️. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:peterbryant.v1@gmail.com).
 
+![cute](https://user-images.githubusercontent.com/72423203/214210683-2cf9151b-d141-4f12-9f46-5cbc739cdff9.gif)
+
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
 </p>
