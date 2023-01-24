@@ -1,4 +1,6 @@
 # Hi I'm Peter👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-w-bryant&label=Profile%20views&color=0e75b6&style=flat" alt="peter-w-bryant" /> </p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-PeterBryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
 [![Website Badge](https://img.shields.io/badge/-peterbryant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/)
