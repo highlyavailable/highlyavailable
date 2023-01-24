@@ -9,6 +9,10 @@
 
 Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on Math/CS Twitter, and am joining U.S. Bank as an entry-level SWE outside of Minneapolis, MN in June '23 🖥️. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:peterbryant.v1@gmail.com).
 
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
+</p>
+
 ## Most familiar with...
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -31,10 +35,6 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 ## Some experience with...
 - Java
-
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
-</p>
 
 ## Undergrad Coursework (CS/DS/MATH)
 I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
