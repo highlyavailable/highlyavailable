@@ -18,7 +18,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 <br>
 <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 <br>
-<img src = "https://img.shields.io/badge/-mysql-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-FFFFFF-60AFDE?style=flat&logo=FFFFFF&logoColor=white">
+<img src = "https://img.shields.io/badge/-MySQL-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-SQLite-6EB9E4?style=flat&logo=SQLite&logoColor=white">
 <br>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
