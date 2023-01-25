@@ -13,7 +13,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
 </p>
 
-## Most familiar with...
+## Experience with...
 <img src = "https://img.shields.io/badge/-Python-366C9C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-059487?style=flat&logo=FastAPI&logoColor=white">
 
 <img src = "https://img.shields.io/badge/-MySQL-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-SQLite-6EB9E4?style=flat&logo=SQLite&logoColor=white">
@@ -24,8 +24,8 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 <img src = "https://img.shields.io/badge/-JavaScript-E8D44D?style=flat&logo=javascript&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-4762E0?style=flat&logo=CSS3&logoColor=white">
 
-## Some experience with...
-- Java
+<img src = "https://img.shields.io/badge/-Git-E8D44D?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-DD4B25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-4762E0?style=flat&logo=Docker&logoColor=white">
+
 
 ## Undergrad Coursework (CS/DS/MATH)
 I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
