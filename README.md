@@ -18,8 +18,8 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 ### Languages and Frameworks
 
 <img src = "https://img.shields.io/badge/-Python-E34F26?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-563D7C?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-eed718?style=flat&logo=FastAPI&logoColor=white">
-<br>
-<img src = "https://img.shields.io/badge/-C-E34F26?style=flat&logo=C&logoColor=white"><img src = "https://img.shields.io/badge/-gdb-E34F26?style=flat&logo=gdb&logoColor=white">
+<br><br>
+<img src = "https://img.shields.io/badge/-C-E34F26?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 <br>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
