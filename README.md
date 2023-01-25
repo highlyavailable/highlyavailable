@@ -18,9 +18,9 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 <img src = "https://img.shields.io/badge/-MySQL-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-SQLite-6EB9E4?style=flat&logo=SQLite&logoColor=white">
 
-<img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
-
 <img src = "https://img.shields.io/badge/-R-2468B9?style=flat&logo=r&logoColor=white"> <img src = "https://img.shields.io/badge/-Julia-8F55AC?style=flat&logo=Julia&logoColor=white">
+
+<img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 
 <img src = "https://img.shields.io/badge/-JavaScript-E8D44D?style=flat&logo=javascript&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-4762E0?style=flat&logo=CSS3&logoColor=white">
 
