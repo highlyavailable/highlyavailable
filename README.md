@@ -17,9 +17,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 ### Languages and Frameworks
 
-<img src = "https://img.shields.io/badge/-Python-E34F26?style=flat&logo=html5&logoColor=green">
-<img src="https://img.shields.io/badge/-Flask-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-FastAPI-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-Python-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-Flask-563D7C?style=flat&logo=Flask&logoColor=white"><img src="https://img.shields.io/badge/-FastAPI-eed718?style=flat&logo=FastAPI&logoColor=white">
 <br>
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
