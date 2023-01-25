@@ -14,7 +14,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 </p>
 
 ## Experience with...
-<img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-DB4128?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
+<img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
 
 <img src = "https://img.shields.io/badge/-Python-366C9C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-059487?style=flat&logo=FastAPI&logoColor=white">
 
