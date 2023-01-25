@@ -16,14 +16,15 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 ## Most familiar with...
 <img src = "https://img.shields.io/badge/-Python-366C9C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-059487?style=flat&logo=FastAPI&logoColor=white">
 <br>
-<img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
-<br>
 <img src = "https://img.shields.io/badge/-MySQL-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-SQLite-6EB9E4?style=flat&logo=SQLite&logoColor=white">
 <br>
+<img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
+<br>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original-wordmark.svg" alt="Julia" width="40" height="40"/> </a>
+<img src = "https://img.shields.io/badge/-R-2468B9?style=flat&logo=r&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-Julia-8F55AC?style=flat&logo=Julia&logoColor=white">
+<br>
+
+
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
 
