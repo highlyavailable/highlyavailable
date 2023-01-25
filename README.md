@@ -15,25 +15,14 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 ## Most familiar with...
 <img src = "https://img.shields.io/badge/-Python-366C9C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-059487?style=flat&logo=FastAPI&logoColor=white">
-<br>
+
 <img src = "https://img.shields.io/badge/-MySQL-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-SQLite-6EB9E4?style=flat&logo=SQLite&logoColor=white">
-<br>
+
 <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 
-<img src = "https://img.shields.io/badge/-R-2468B9?style=flat&logo=r&logoColor=white"><img src = "https://img.shields.io/badge/-Julia-8F55AC?style=flat&logo=Julia&logoColor=white">
-<br>
+<img src = "https://img.shields.io/badge/-R-2468B9?style=flat&logo=r&logoColor=white"> <img src = "https://img.shields.io/badge/-Julia-8F55AC?style=flat&logo=Julia&logoColor=white">
 
-
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-
-- Python/Flask/FastAPI
-- SQL
-- C
-- R
-- Julia
-- JS
-- Basic HTML/CSS
+<img src = "https://img.shields.io/badge/-javascript-E8D44D?style=flat&logo=javascript&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-4762E0?style=flat&logo=CSS&logoColor=white">
 
 ## Some experience with...
 - Java
