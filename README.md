@@ -22,7 +22,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 <img src = "https://img.shields.io/badge/-R-2468B9?style=flat&logo=r&logoColor=white"> <img src = "https://img.shields.io/badge/-Julia-8F55AC?style=flat&logo=Julia&logoColor=white">
 
-<img src = "https://img.shields.io/badge/-javascript-E8D44D?style=flat&logo=javascript&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-4762E0?style=flat&logo=CSS&logoColor=white">
+<img src = "https://img.shields.io/badge/-JavaScript-E8D44D?style=flat&logo=javascript&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=HTML5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-4762E0?style=flat&logo=CSS3&logoColor=white">
 
 ## Some experience with...
 - Java
