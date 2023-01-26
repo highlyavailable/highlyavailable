@@ -30,27 +30,29 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 ## Undergrad Coursework (CS/DS/MATH)
 I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
 
-![BuckyBadger_small](https://user-images.githubusercontent.com/72423203/214721198-0b56a5b0-8b3c-4dab-813d-8c28e66fe6bf.png)
-
-- CS577 Algorithms
-- CS564 Database Management Systems
-- CS540 Artificial Intelligence
-- MATH541 Modern Algebra II
-- MATH540 Modern Algebra I
-- CS537 Operating Systems
-- CS524 Optimization
-- CS506 Software Engineering
-- STAT436 Statistical Data Visualization
-- CS400 Java Programming III
-- CS354 Machine Organization
-- STAT340 Data Science Modeling II
-- STAT324 Applied Statistics
-- MATH340 Linear Algebra
-- CS320 Data Science Programming II
-- CS300 Java Programming II
-- CS252 Intro to Computer Engineering
-- STAT240 Data Science Modeling I
-- MATH240 Discrete Math
-- CS220 Data Science Programming I
-- CS200 Java Programming I
-  
+<div class="wrapper" style="display:flex">
+  ![BuckyBadger_small](https://user-images.githubusercontent.com/72423203/214721198-0b56a5b0-8b3c-4dab-813d-8c28e66fe6bf.png)
+  <ul>
+    <li>CS577 Algorithms</li>
+    <li>CS564 Database Management Systems</li>
+    <li>CS540 Artificial Intelligence</li>
+    <li>MATH541 Modern Algebra II</li>
+    <li>MATH540 Modern Algebra I</li>
+    <li>CS537 Operating Systems</li>
+    <li>CS524 Optimization</li>
+    <li>CS506 Software Engineering</li>
+    <li>STAT436 Statistical Data Visualization</li>
+    <li>CS400 Java Programming III</li>
+    <li>CS354 Machine Organization</li>
+    <li>STAT340 Data Science Modeling II</li>
+    <li>STAT324 Applied Statistics</li>
+    <li>MATH340 Linear Algebra</li>
+    <li>CS320 Data Science Programming II</li>
+    <li>CS300 Java Programming II</li>
+    <li>CS252 Intro to Computer Engineering</li>
+    <li>STAT240 Data Science Modeling I</li>
+    <li>MATH240 Discrete Math</li>
+    <li>CS220 Data Science Programming I</li>
+    <li>CS200 Java Programming I</li>
+  </ul>
+</div>
