@@ -31,7 +31,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
 
 <div class="wrapper" style="display:flex">
-  ![BuckyBadger_small](https://user-images.githubusercontent.com/72423203/214721198-0b56a5b0-8b3c-4dab-813d-8c28e66fe6bf.png)
+  <a href="https://imgur.com/V1ibKfZ"><img src="https://i.imgur.com/V1ibKfZ.png" title="source: imgur.com" /></a>
   <ul>
     <li>CS577 Algorithms</li>
     <li>CS564 Database Management Systems</li>
