@@ -28,7 +28,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 
 ## Undergrad Coursework (CS/DS)
-I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
+I have private repos for some of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
 
   <ul >
     <li>CS577 Algorithms</li>
