@@ -24,7 +24,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 <img src = "https://img.shields.io/badge/-R-2468B9?style=flat&logo=r&logoColor=white"> <img src = "https://img.shields.io/badge/-Julia-8F55AC?style=flat&logo=Julia&logoColor=white">
 
-<img src = "https://img.shields.io/badge/-Java-608BA6?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
+<img src = "https://img.shields.io/badge/-Java-608BA6?style=flat&logo=javaprogramming&logoColor=white"> <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 
 
 
