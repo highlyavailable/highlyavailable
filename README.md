@@ -26,6 +26,9 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 
 <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 
+<img src = "https://img.shields.io/badge/-Java-608BA6?style=flat&logo=Java&logoColor=white">
+
+
 
 ## Undergrad Coursework (CS/DS)
 I have private repos for most of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
