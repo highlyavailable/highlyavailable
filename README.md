@@ -13,6 +13,9 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
 </p>
 
+[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter-w-bryant)](https://github.com/peter-w-bryant/github-readme-stats)
+
+
 ## Experience with...
 <img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
 
