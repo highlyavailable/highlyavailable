@@ -10,15 +10,8 @@
 Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on Math/CS Twitter, and am joining U.S. Bank as an entry-level SWE outside of Minneapolis, MN in June '23 🖥️. Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
-</p>
-
-<p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
 </p>
-
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight)](https://github.com/peter-w-bryant/github-readme-stats)
-
 
 ## Experience with...
 <img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
