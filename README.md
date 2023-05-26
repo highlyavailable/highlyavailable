@@ -14,7 +14,7 @@ Welcome to my profile! I'm a senior studying CS & DS at UW-Madison, a lurker on 
 </p>
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
 </p>
 
 [![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter-w-bryant&show_icons=true&locale=en&theme=tokyonight)](https://github.com/peter-w-bryant/github-readme-stats)
