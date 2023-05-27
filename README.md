@@ -16,6 +16,7 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 
 ## Currently learning...
 ![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E84E31?style=flat&logo=Apache%20Spark&logoColor=white)
+![Apache Airflow Badge](https://img.shields.io/badge/-Apache%20Airflow-0178E7?style=flat&logo=Apache%20Airflow&logoColor=white)
 
 ## Experience with...
 <img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
