@@ -13,8 +13,9 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="peter-w-bryant" />
 </p>
+
 ## Currently learning...
-<img src = "https://img.shields.io/badge/-ApacheSpark-E84E31?style=flat&logo=ApacheSpark&logoColor=white"> 
+![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E84E31?style=flat&logo=Apache%20Spark&logoColor=white)
 
 ## Experience with...
 <img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
