@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-w-bryant&label=Profile%20views&color=0e75b6&style=flat" alt="peter-w-bryant" /> </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-brightgreen?style=flat&logo=Whatsapp&logoColor=white&link=https://wa.me/qr/3372JTGOGWHWE1)](https://wa.me/qr/3372JTGOGWHWE1)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-green?style=flat&logo=Whatsapp&logoColor=white&link=https://wa.me/qr/3372JTGOGWHWE1)](https://wa.me/qr/3372JTGOGWHWE1)
 [![Website Badge](https://img.shields.io/badge/-peterbryant.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
 
