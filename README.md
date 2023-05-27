@@ -1,7 +1,4 @@
-# Hi I'm Peter👋 
-
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=red&size=24&lines=Hey+there,+I'm+Peter👋.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A37D21&width=435&lines=Hi+there%2C+I'm+Peter.+%F0%9F%91%8B;My+contact+info+is+below!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-w-bryant&label=Profile%20views&color=0e75b6&style=flat" alt="peter-w-bryant" /> </p>
 
