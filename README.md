@@ -11,7 +11,7 @@
 Welcome to my profile! I recently graduated from UW-Madison with a BS degree for a double major in Computer Science and Data Science (Spring '23); since then I have moved to Minneapolis, MN and am joining U.S. Bank as an entry-level SWE and Georgia Tech's [OMSCS]([url](https://omscs.gatech.edu/)) program! 🖥️ Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter-w-bryant&theme=tokyonight" alt="peter-w-bryant" />
+&nbsp;<img align="center" src="https://github-readme-stats-orcin-kappa.vercel.app/api?username=peter-w-bryant&theme=tokyonight" alt="peter-w-bryant" />
 </p>
 
 ## Currently learning...
