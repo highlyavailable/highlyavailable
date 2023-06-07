@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B3A369&width=435&lines=Hi+there%2C+I'm+Peter.+%F0%9F%91%8B;My+contact+info+is+below!+⬇️)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-brightgreen?style=flat&logo=Whatsapp&logoColor=white&link=https://wa.me/qr/3372JTGOGWHWE1)](https://wa.me/qr/3372JTGOGWHWE1)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
 [![Website Badge](https://img.shields.io/badge/-peterbryant.me-blueviolet?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
