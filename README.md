@@ -12,7 +12,7 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats-orcin-kappa.vercel.app/api?username=peter-w-bryant&theme=tokyonight" alt="peter-w-bryant" />
-</p>
+</p> 
 
 ## Currently learning...
 ![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
