@@ -13,7 +13,7 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 &nbsp;<img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" /> 
 </p> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=peter-w-bryant)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## Currently learning...
 ![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
