@@ -9,11 +9,10 @@
 
 Welcome to my profile! I recently graduated from UW-Madison with a BS degree for a double major in Computer Science and Data Science (Spring '23); since then I have moved to Minneapolis, MN and am joining U.S. Bank as an entry-level SWE and Georgia Tech's [OMSCS]([url](https://omscs.gatech.edu/)) program! 🖥️ Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
-<p>
-&nbsp;<img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" /> 
-</p> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" /> 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true&card_width=100)](https://git.io/streak-stats)
 
 ## Currently learning...
 ![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
