@@ -10,13 +10,11 @@
 Welcome to my profile! I recently graduated from UW-Madison with a BS degree for a double major in Computer Science and Data Science (Spring '23); since then I have moved to Minneapolis, MN and am joining U.S. Bank as an entry-level SWE and Georgia Tech's [OMSCS]([url](https://omscs.gatech.edu/)) program! 🖥️ Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
 
-<div style="display: inline-flex; align-items: center;">
-    <img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" />
-    <a href="https://git.io/streak-stats" style="position: relative; top: 30px; margin-left: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true&card_width=150" alt="GitHub Streak" />
-    </a>
-</div>
-
+<img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" />
+    
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true&card_width=150" alt="GitHub Streak" />
+</a>
 
 ## Currently learning...
 ![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
@@ -38,7 +36,7 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 
 
 ## Undergrad Coursework (CS/DS)
-I have private repos for some of these courses, if you want to reference my coursework/projects just send me an [email](mailto:peterbryant.v1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
+I have private repos for some of these courses, if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
 
   <ul >
     <li>CS577 Algorithms</li>
