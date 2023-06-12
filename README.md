@@ -11,11 +11,16 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" />
-    <a href="https://git.io/streak-stats" style="margin-left: 10px; align-self: center;">
-        <img src="https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true&card_width=150" alt="GitHub Streak" />
-    </a>
+    <div>
+        <img align="center" src="https://github-readme-stats-git-main-peter-w-bryant.vercel.app/api?username=peter-w-bryant&include_all_commits=true&hide_rank=true&theme=tokyonight" alt="peter-w-bryant" />
+    </div>
+    <div style="margin-left: 10px;">
+        <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&hide_total_contributions=true&card_width=150" alt="GitHub Streak" />
+        </a>
+    </div>
 </div>
+
 
 ## Currently learning...
 ![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
