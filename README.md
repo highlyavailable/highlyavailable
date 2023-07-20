@@ -57,6 +57,5 @@ I have private repos for some of these courses, if you want to reference my cour
     <li>STAT240 Data Science Modeling I</li>
     <li>MATH240 Discrete Math</li>
     <li>CS220 Data Science Programming I</li>
-    <li>CS200 Java Programming I</li>
   </ul>
 
