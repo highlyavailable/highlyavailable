@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-peterbryant.me-blueviolet?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
 
-Welcome to my profile! I recently graduated from UW-Madison with a BS degree for a double major in Computer Science and Data Science (Spring '23); since then I have moved to Minneapolis, MN and am joining U.S. Bank as an entry-level SWE and Georgia Tech's [OMSCS]([url](https://omscs.gatech.edu/)) program! 🖥️ Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
+Welcome to my profile! I recently graduated from UW-Madison with a BS degree for a double major in Computer Science and Data Science (Spring '23); since then, I have moved to Minneapolis, MN, as an entry-level SWE at U.S. Bank and Georgia Tech's [OMSCS]([url](https://omscs.gatech.edu/)) program! 🖥️ Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
 <!-- <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&card_width=250&starting_year=2023" alt="GitHub Streak" />
