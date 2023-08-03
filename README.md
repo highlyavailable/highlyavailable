@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-w-bryant&label=Profile%20views&color=0e75b6&style=flat" alt="peter-w-bryant" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=B3A369&width=435&lines=Hi+there%2C+I'm+Peter.+%F0%9F%91%8B;My+contact+info+is+below!+⬇️)](https://git.io/typing-svg)
+
 <img src="https://media.tenor.com/fDCXfXT2Za8AAAAC/hippie-spongebob.gif" width="237" height="178" />
+
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-peter.bryant@gatech.edu-B3A369?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:peter.bryant@gatech.edu)](mailto:peter.bryant@gatech.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
