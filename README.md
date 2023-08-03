@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/fDCXfXT2Za8AAAAC/hippie-spongebob.gif" 
      width="237" 
      height="178" 
-     style="display: block; margin: 0 auto;"
+     style="display: flex; margin: 0 auto; justify-content: center; align-items: center;"
 />
 
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
