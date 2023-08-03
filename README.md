@@ -6,11 +6,6 @@
   <img src="https://media.tenor.com/fDCXfXT2Za8AAAAC/hippie-spongebob.gif" width="237" height="178" />
 </p>
 
-<p align="center">
-  <img width="460" height="300" src="https://picsum.photos/460/300">
-</p>
-
-
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-peter.bryant@gatech.edu-B3A369?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:peter.bryant@gatech.edu)](mailto:peter.bryant@gatech.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
