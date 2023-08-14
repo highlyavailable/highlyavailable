@@ -46,7 +46,7 @@ I have private repos for some of my undergrad and all of my master's courses; if
   <li>CS6200 Graduate Intro to Operating Systems</li>
 </ul>
 
-## Wisconsin Undergrad (CS/DS)
+## Wisconsin BS CS & DS
   <ul >
     <li>CS577 Algorithms</li>
     <li>CS564 Database Management Systems</li>
