@@ -63,31 +63,3 @@ I have private repos for some of these courses, if you want to reference my cour
     <li>MATH240 Discrete Math</li>
     <li>CS220 Data Science Programming I</li>
   </ul>
-
-  <ul>
-  <li>CS577 Algorithms</li>
-  <li>CS564 Database Management Systems</li>
-  <li>CS540 Artificial Intelligence</li>
-  <li><a href="#" onclick="toggleDropdown('dropdown1')">Show more...</a></li>
-  <div id="dropdown1" style="display: none;">
-    <li>MATH541 Modern Algebra II</li>
-    <li>MATH540 Modern Algebra I</li>
-    <li>CS537 Operating Systems</li>
-    <!-- Add more items as needed -->
-  </div>
-  <li>CS524 Optimization</li>
-  <!-- Continue with the rest of the list -->
-</ul>
-
-<script>
-function toggleDropdown(id) {
-  var dropdown = document.getElementById(id);
-  if (dropdown.style.display === "none") {
-    dropdown.style.display = "block";
-  } else {
-    dropdown.style.display = "none";
-  }
-}
-</script>
-
-
