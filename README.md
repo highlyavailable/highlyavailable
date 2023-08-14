@@ -38,7 +38,7 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 
 # Coursework
-I have private repos for some of these courses, if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
+I have private repos for some of my undergrad and all of my master's courses; if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
 ## Georgia Tech MSCS
 <ul>
