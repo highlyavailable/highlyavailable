@@ -37,10 +37,15 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 
 <img src = "https://img.shields.io/badge/-C-006BAA?style=flat&logo=C&logoColor=white"> <img src = "https://img.shields.io/badge/-gdb-7B7B7B?style=flat&logo=gdb&logoColor=white">
 
-
-## Wisconsin Undergrad Coursework (CS/DS)
+# Coursework
 I have private repos for some of these courses, if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison student).
 
+## Georgia Tech MSCS
+<ul>
+  <li>CS6200 Graduate Intro to Operating Systems</li>
+</ul>
+
+## Wisconsin Undergrad (CS/DS)
   <ul >
     <li>CS577 Algorithms</li>
     <li>CS564 Database Management Systems</li>
