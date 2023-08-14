@@ -20,6 +20,7 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 <!-->
 
 ## Currently learning...
+![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white)
 ![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
 ![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E84E31?style=flat&logo=Apache%20Spark&logoColor=white)
 ![Apache Airflow Badge](https://img.shields.io/badge/-Apache%20Airflow-0178E7?style=flat&logo=Apache%20Airflow&logoColor=white)
