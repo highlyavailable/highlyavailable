@@ -48,12 +48,12 @@ I have private repos for some of my undergrad and all of my master's courses; if
 
 ## Wisconsin BS CS & DS
   <ul >
-    <li>CS577 Algorithms</li>
+    <li>CS577 Intro to Algorithms</li>
     <li>CS564 Database Management Systems</li>
     <li>CS540 Artificial Intelligence</li>
     <li>MATH541 Modern Algebra II</li>
     <li>MATH540 Modern Algebra I</li>
-    <li>CS537 Operating Systems</li>
+    <li>CS537 Intro to Operating Systems</li>
     <li>CS524 Optimization</li>
     <li>CS506 Software Engineering</li>
     <li>STAT436 Statistical Data Visualization</li>
