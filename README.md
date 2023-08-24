@@ -43,7 +43,7 @@ I have private repos for some of my undergrad and all of my master's courses; if
 
 ## Georgia Tech MS CS
 <ul>
-  <li>CS6200 Graduate Intro to Operating Systems</li>
+  <li>CS7637: Knowledge-Based Artificial Intelligence</li>
 </ul>
 
 ## Wisconsin BS CS & DS
