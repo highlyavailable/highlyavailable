@@ -41,12 +41,12 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 # Coursework
 I have private repos for some of my undergrad and all of my master's courses; if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
-## Georgia Tech MS CS
+## Georgia Tech MS (CS)
 <ul>
   <li>CS7637: Knowledge-Based Artificial Intelligence</li>
 </ul>
 
-## Wisconsin BS CS & DS
+## Wisconsin BS (CS & DS)
   <ul >
     <li>CS577 Intro to Algorithms</li>
     <li>CS564 Database Management Systems</li>
