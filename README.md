@@ -14,14 +14,14 @@
 
 Welcome to my profile! I recently graduated from UW-Madison with a BS degree for a double major in Computer Science and Data Science (Spring '23); since then, I have moved to Minneapolis, MN, as an entry-level SWE at U.S. Bank and Georgia Tech's [OMSCS]([url](https://omscs.gatech.edu/)) program! 🖥️ Thanks for visiting and feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
-<!-- <a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=peter-w-bryant&theme=dark&hide_longest_streak=true&card_width=250&starting_year=2023" alt="GitHub Streak" />
 </a>
-<!-->
+
 
 # Currently learning...
+![Golang Badge](https://img.shields.io/badge/-Golang-00A7D0?style=flat&logo=Golang&logoColor=white)
 ![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white)
-![Scala Badge](https://img.shields.io/badge/-Scala-D73222?style=flat&logo=Scala&logoColor=white)
 ![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E84E31?style=flat&logo=Apache%20Spark&logoColor=white)
 ![Apache Airflow Badge](https://img.shields.io/badge/-Apache%20Airflow-0178E7?style=flat&logo=Apache%20Airflow&logoColor=white)
 
