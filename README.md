@@ -40,6 +40,8 @@ I have private repos for some of my undergrad and all of my master's courses; if
 
 ## Georgia Tech MS (CS)
 <ul>
+  <li>CS6250: Computer Networks</li>
+  <li>CS7646: Machine Learning for Trading</li>
   <li>CS7637: Knowledge-Based Artificial Intelligence</li>
 </ul>
 
