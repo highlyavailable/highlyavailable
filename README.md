@@ -16,16 +16,10 @@ Welcome to my profile! I recently graduated from UW-Madison with a BS degree for
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
 
-# Currently learning...
-![Golang Badge](https://img.shields.io/badge/-Go-00A7D0?style=flat&logo=Go&logoColor=white)
-![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white)
-![Apache Spark Badge](https://img.shields.io/badge/-Apache%20Spark-E84E31?style=flat&logo=Apache%20Spark&logoColor=white)
-![Apache Airflow Badge](https://img.shields.io/badge/-Apache%20Airflow-0178E7?style=flat&logo=Apache%20Airflow&logoColor=white)
-
 # Experience with...
-<img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white">
+<img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white"> ![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white)
 
-<img src = "https://img.shields.io/badge/-Python-366C9C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-059487?style=flat&logo=FastAPI&logoColor=white">
+![Golang Badge](https://img.shields.io/badge/-Go-00A7D0?style=flat&logo=Go&logoColor=white) <img src = "https://img.shields.io/badge/-Python-366C9C?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/-FastAPI-059487?style=flat&logo=FastAPI&logoColor=white">
 
 <img src = "https://img.shields.io/badge/-GraphQL-DE33A6?style=flat&logo=GraphQL&logoColor=white"> <img src = "https://img.shields.io/badge/-MySQL-DD8A00?style=flat&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=PostgreSQL&logoColor=white"> <img src = "https://img.shields.io/badge/-SQLite-6EB9E4?style=flat&logo=SQLite&logoColor=white">
 
