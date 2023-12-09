@@ -7,8 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-peter.bryant@gatech.edu-B3A369?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:peter.bryant@gatech.edu)](mailto:peter.bryant@gatech.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
-[![Website Badge](https://img.shields.io/badge/-peterbryant.me-blueviolet?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
+
+<! -- [![Website Badge](https://img.shields.io/badge/-peterbryant.me-blueviolet?style=flat&logo=Google-Chrome&logoColor=white&link=https://peterbryant.me)](https://peterbryant.me/) -->
 
 Feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
 
