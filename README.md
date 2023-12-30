@@ -13,8 +13,6 @@ Feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or s
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant)](https://git.io/streak-stats)
-
 # Experience with...
 <img src = "https://img.shields.io/badge/-Git-E84E31?style=flat&logo=Git&logoColor=white"> <img src = "https://img.shields.io/badge/-Docker-2392E6?style=flat&logo=Docker&logoColor=white"> <img src = "https://img.shields.io/badge/-Gitlab-F46A25?style=flat&logo=Gitlab&logoColor=white"> ![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white)
 
