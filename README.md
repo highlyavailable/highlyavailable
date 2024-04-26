@@ -9,8 +9,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
 
-Feel free to [connect](https://www.linkedin.com/in/peter-bryant-33b7091b6/) or send me an [email](mailto:pwbryant1@gmail.com).
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
 
 # Coursework
