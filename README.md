@@ -11,8 +11,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=peterxbryant&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
-
 # Coursework
 I have private repos for some of my undergrad and all of my master's courses; if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
