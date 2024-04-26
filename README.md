@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://media.tenor.com/fDCXfXT2Za8AAAAC/hippie-spongebob.gif" width="237" height="178" />
-  <img src="https://media.tenor.com/fDCXfXT2Za8AAAAC/hippie-spongebob.gif" width="237" height="178" />
   ![mountains](https://github.com/peterxbryant/peterxbryant/assets/72423203/b367545a-dd42-4495-a1e5-6cc4df3cd0e6)
 </p>
 
