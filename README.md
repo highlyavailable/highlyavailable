@@ -1,9 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-w-bryant&label=Profile%20views&color=0e75b6&style=flat" alt="peter-w-bryant" /> </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.tenor.com/fDCXfXT2Za8AAAAC/hippie-spongebob.gif" width="237" height="178" />
-  ![mountains](https://github.com/peterxbryant/peterxbryant/assets/72423203/b367545a-dd42-4495-a1e5-6cc4df3cd0e6)
-</p>
+</p> -->
 
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-peter.bryant@gatech.edu-B3A369?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:peter.bryant@gatech.edu)](mailto:peter.bryant@gatech.edu)
