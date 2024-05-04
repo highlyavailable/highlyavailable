@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=peterxbryant&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark)](https://git.io/streak-stats)
 
 # Coursework
 I have private repos for some of my undergrad and all of my master's courses; if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
