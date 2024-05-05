@@ -1,11 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-w-bryant&label=Profile%20views&color=0e75b6&style=flat" alt="peter-w-bryant" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=highlyavailable&label=Profile%20views&color=0e75b6&style=flat" alt="highlyavailable" /> </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-pwbryant1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pwbryant1@gmail.com)](mailto:pwbryant1@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-peter.bryant@gatech.edu-B3A369?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:peter.bryant@gatech.edu)](mailto:peter.bryant@gatech.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-Peter&nbsp;Bryant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-bryant-33b7091b6/)](https://www.linkedin.com/in/peter-bryant-33b7091b6/)
 [![Twitter Badge](https://img.shields.io/badge/-@peterwbryant-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/peterwbryant)](https://twitter.com/peterwbryant)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=highlyavailable&theme=dark)](https://git.io/streak-stats)
 
 Mostly private for now 😔. I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
