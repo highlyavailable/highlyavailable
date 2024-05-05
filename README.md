@@ -10,7 +10,7 @@
 # Coursework
 I have private repos for some of my undergrad and all of my master's courses; if you want to reference my coursework/projects just send me an [email](mailto:pwbryant1@gmail.com) (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
-| Georgia Tech (MS CS) | Wisconsin (BS CS & DS) |
+| Georgia Tech | Wisconsin |
 |----------------------|------------------------|
 | CS6250: Computer Networks | CS577 Intro to Algorithms |
 | CS7646: Machine Learning for Trading | CS564 Database Management Systems |
