@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=peter-w-bryant&theme=dark)](https://git.io/streak-stats)
 
-Mostly private for now /:. I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
+Mostly private for now 😔. I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
 | Wisconsin | Georgia Tech |
 |------------------------|----------------------|
