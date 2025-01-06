@@ -11,11 +11,11 @@ Mostly private for now 😔. I have repos for some of my undergrad and all of my
 
 | Wisconsin | Georgia Tech |
 |------------------------|----------------------|
-| CS577 Intro to Algorithms | CS 6400: Database Systems Concepts and Design |
-| CS564 Database Management Systems | CS6250: Computer Networks |
-| CS540 Artificial Intelligence | CS7646: Machine Learning for Trading |
-| MATH541 Modern Algebra II | CS7637: Knowledge-Based Artificial Intelligence |
-| MATH540 Modern Algebra I | |
+| CS577 Intro to Algorithms | CS7632: Game AI | 
+| CS564 Database Management Systems | CS6400: Database Systems Concepts and Design |
+| CS540 Artificial Intelligence | CS6250: Computer Networks |
+| MATH541 Modern Algebra II | CS7646: Machine Learning for Trading |
+| MATH540 Modern Algebra I | CS7637: Knowledge-Based Artificial Intelligence |
 | CS537 Intro to Operating Systems | |
 | CS524 Optimization | |
 | CS506 Software Engineering | |
