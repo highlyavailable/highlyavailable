@@ -9,7 +9,7 @@
 
 Mostly private for now 😔. I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
-| Wisconsin (BS, CS&DS) | Georgia Tech (MSCS, ML specialization)|
+| Wisconsin (BS, CS&DS) | Georgia Tech (MSCS)|
 |------------------------|----------------------|
 | CS577 Intro to Algorithms | CS7632: Game AI | 
 | CS564 Database Management Systems | CS6400: Database Systems Concepts and Design |
