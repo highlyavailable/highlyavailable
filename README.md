@@ -7,16 +7,16 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=highlyavailable&theme=dark)](https://git.io/streak-stats)
 
-Mostly private for now 😔. I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
+I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
 
 | Wisconsin (BS, CS&DS) | Georgia Tech (MSCS)|
 |------------------------|----------------------|
-| CS577 Intro to Algorithms | CS7632: Game AI | 
-| CS564 Database Management Systems | CS6400: Database Systems Concepts and Design |
-| CS540 Artificial Intelligence | CS6250: Computer Networks |
-| MATH541 Modern Algebra II | CS7646: Machine Learning for Trading |
-| MATH540 Modern Algebra I | CS7637: Knowledge-Based Artificial Intelligence |
-| CS537 Intro to Operating Systems | |
+| CS577 Intro to Algorithms | CS 6300 Software Development Process |
+| CS564 Database Management Systems | CS7632: Game AI |
+| CS540 Artificial Intelligence | CS6400: Database Systems Concepts and Design |
+| MATH541 Modern Algebra II | CS6250: Computer Networks |
+| MATH540 Modern Algebra I | CS7646: Machine Learning for Trading |
+| CS537 Intro to Operating Systems | CS7637: Knowledge-Based Artificial Intelligence |
 | CS524 Optimization | |
 | CS506 Software Engineering | |
 | STAT436 Statistical Data Visualization | |
