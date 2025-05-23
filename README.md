@@ -11,12 +11,12 @@ I have repos for some of my undergrad and all of my master's courses (list below
 
 | Wisconsin (BS, CS&DS) | Georgia Tech (MSCS)|
 |------------------------|----------------------|
-| CS577 Intro to Algorithms | CS 6300 Software Development Process |
-| CS564 Database Management Systems | CS7632: Game AI |
-| CS540 Artificial Intelligence | CS6400: Database Systems Concepts and Design |
-| MATH541 Modern Algebra II | CS6250: Computer Networks |
-| MATH540 Modern Algebra I | CS7646: Machine Learning for Trading |
-| CS537 Intro to Operating Systems | CS7637: Knowledge-Based Artificial Intelligence |
+| CS577 Intro to Algorithms | CS6300 Software Development Process |
+| CS564 Database Management Systems | CS7632 Game AI |
+| CS540 Artificial Intelligence | CS6400 Database Systems Concepts and Design |
+| MATH541 Modern Algebra II | CS6250 Computer Networks |
+| MATH540 Modern Algebra I | CS7646 Machine Learning for Trading |
+| CS537 Intro to Operating Systems | CS7637 Knowledge-Based Artificial Intelligence |
 | CS524 Optimization | |
 | CS506 Software Engineering | |
 | STAT436 Statistical Data Visualization | |
