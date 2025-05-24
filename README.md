@@ -7,7 +7,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=highlyavailable&theme=dark)](https://git.io/streak-stats)
 
-I have repos for some of my undergrad and all of my master's courses (list below); send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student).
+## Recent PRs
+
+<!--START_SECTION:recent-prs-->
+<!--END_SECTION:recent-prs-->
+
+## Coursework
+I have repos for some of my undergrad and all of my master's courses; send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student 😊).
 
 | Wisconsin (BS, CS&DS) | Georgia Tech (MSCS)|
 |------------------------|----------------------|
