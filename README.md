@@ -10,6 +10,12 @@
 ## :zap: Recent PRs
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2904230079) in [apache/airflow](https://github.com/apache/airflow)
+2. 🗣 Commented on [#6813](https://github.com/open-telemetry/opentelemetry-go/pull/6813#issuecomment-2904155662) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+3. 💪 Opened PR [#50990](https://github.com/apache/airflow/pull/50990) in [apache/airflow](https://github.com/apache/airflow)
+4. 💪 Opened PR [#9097](https://github.com/treeverse/lakeFS/pull/9097) in [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
+5. 💪 Opened PR [#6814](https://github.com/open-telemetry/opentelemetry-go/pull/6814) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+6. 💪 Opened PR [#6813](https://github.com/open-telemetry/opentelemetry-go/pull/6813) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
 <!--END_SECTION:activity-->
 
 ## Coursework
