@@ -20,7 +20,7 @@
 
 ## 📌 Pinned Pull Requests
 <!--START_SECTION:github-readme-actions-pinned_prs-->
-- No pinned pull requests found.
+- 🟢 [bridge/opencensus: add test for OTelSpanContextToOC function](https://github.com/open-telemetry/opentelemetry-go/pull/6813) - open-telemetry/opentelemetry-go | [Issue #6561](https://github.com/open-telemetry/opentelemetry-go/issues/6561)
 <!--END_SECTION:github-readme-actions-pinned_prs-->
 
 ## Coursework
