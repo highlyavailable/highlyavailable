@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=highlyavailable&theme=dark)](https://git.io/streak-stats)
 
-## :zap: Recent PRs
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50963](https://github.com/apache/airflow/issues/50963#issuecomment-2907546856) in [apache/airflow](https://github.com/apache/airflow)
@@ -17,6 +17,10 @@
 5. 🗣 Commented on [#6779](https://github.com/open-telemetry/opentelemetry-go/issues/6779#issuecomment-2906933273) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
 6. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2904230079) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
+
+## PRs
+<!--START_SECTION:pinned-prs-->
+<!--END_SECTION:pinned-prs-->
 
 ## Coursework
 I have repos for some of my undergrad and all of my master's courses; send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student 😊).
