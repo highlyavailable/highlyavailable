@@ -18,9 +18,9 @@
 6. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2904230079) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
-## PRs
-<!--START_SECTION:pinned-prs-->
-<!--END_SECTION:pinned-prs-->
+## 📌 Pinned Pull Requests
+<!--START_SECTION:github-readme-actions-pinned_prs-->
+<!--END_SECTION:github-readme-actions-pinned_prs-->
 
 ## Coursework
 I have repos for some of my undergrad and all of my master's courses; send me an [email](mailto:pwbryant1@gmail.com) to reference (if you are NOT currently an undergraduate/graduate UW-Madison/Georgia Tech student 😊).
