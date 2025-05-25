@@ -20,6 +20,7 @@
 
 ## 📌 Pinned Pull Requests
 <!--START_SECTION:github-readme-actions-pinned_prs-->
+- No pinned pull requests found.
 <!--END_SECTION:github-readme-actions-pinned_prs-->
 
 ## Coursework
