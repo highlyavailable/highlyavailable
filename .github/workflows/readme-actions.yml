@@ -17,6 +17,7 @@ jobs:
       - uses: highlyavailable/github-readme-actions@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: 'highlyavailable'
           ACTION_TYPE: 'pinned_prs'
           START_DATE: '2025-05-01'
           PR_STATE: 'merged'
