@@ -18,7 +18,7 @@
 6. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2904230079) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
-## 📌 Pinned Pull Requests
+## 📌 Pinned PRs
 <!--START_SECTION:github-readme-actions-pinned_prs-->
 - 🟢 [bridge/opencensus: add test for OTelSpanContextToOC function](https://github.com/open-telemetry/opentelemetry-go/pull/6813) - open-telemetry/opentelemetry-go | [Issue #6561](https://github.com/open-telemetry/opentelemetry-go/issues/6561)
 <!--END_SECTION:github-readme-actions-pinned_prs-->
