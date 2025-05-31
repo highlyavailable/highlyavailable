@@ -10,12 +10,12 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51082](https://github.com/apache/airflow/pull/51082#issuecomment-2922063285) in [apache/airflow](https://github.com/apache/airflow)
-2. 🗣 Commented on [#51082](https://github.com/apache/airflow/pull/51082#issuecomment-2921918737) in [apache/airflow](https://github.com/apache/airflow)
-3. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2921106940) in [apache/airflow](https://github.com/apache/airflow)
-4. 💪 Opened PR [#51082](https://github.com/apache/airflow/pull/51082) in [apache/airflow](https://github.com/apache/airflow)
-5. 🚀 Published release [Initial release](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.0.0) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
-6. 🚀 Published release [Fix PR global search bugs](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.1.1) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
+1. 🗣 Commented on [#6822](https://github.com/open-telemetry/opentelemetry-go/pull/6822#issuecomment-2922392616) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+2. 🗣 Commented on [#51082](https://github.com/apache/airflow/pull/51082#issuecomment-2922063285) in [apache/airflow](https://github.com/apache/airflow)
+3. 🗣 Commented on [#51082](https://github.com/apache/airflow/pull/51082#issuecomment-2921918737) in [apache/airflow](https://github.com/apache/airflow)
+4. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2921106940) in [apache/airflow](https://github.com/apache/airflow)
+5. 💪 Opened PR [#51082](https://github.com/apache/airflow/pull/51082) in [apache/airflow](https://github.com/apache/airflow)
+6. 🚀 Published release [Initial release](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.0.0) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
 <!--END_SECTION:activity-->
 
 ## 📌 Pinned PRs
