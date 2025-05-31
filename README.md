@@ -10,12 +10,12 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51082](https://github.com/apache/airflow/pull/51082) in [apache/airflow](https://github.com/apache/airflow)
-2. 🚀 Published release [Initial release](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.0.0) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
-3. 🚀 Published release [Fix PR global search bugs](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.1.1) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
-4. 🚀 Published release [Fixed global PR search](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.1.0) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
-5. 🗣 Commented on [#50963](https://github.com/apache/airflow/issues/50963#issuecomment-2907546856) in [apache/airflow](https://github.com/apache/airflow)
-6. 💪 Opened PR [#6822](https://github.com/open-telemetry/opentelemetry-go/pull/6822) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+1. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2921106940) in [apache/airflow](https://github.com/apache/airflow)
+2. 💪 Opened PR [#51082](https://github.com/apache/airflow/pull/51082) in [apache/airflow](https://github.com/apache/airflow)
+3. 🚀 Published release [Initial release](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.0.0) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
+4. 🚀 Published release [Fix PR global search bugs](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.1.1) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
+5. 🚀 Published release [Fixed global PR search](https://github.com/highlyavailable/github-readme-actions/releases/tag/v1.1.0) in [highlyavailable/github-readme-actions](https://github.com/highlyavailable/github-readme-actions)
+6. 🗣 Commented on [#50963](https://github.com/apache/airflow/issues/50963#issuecomment-2907546856) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
 ## 📌 Pinned PRs
