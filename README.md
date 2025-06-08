@@ -20,6 +20,7 @@
 
 ## 📌 Pinned PRs
 <!--START_SECTION:github-readme-actions-pinned_prs-->
+- 🟢 [fix: reduce API test memory consumption from 8.26GB to 1.57GB (#8263)](https://github.com/treeverse/lakeFS/pull/9097) - treeverse/lakeFS | [Issue #8263](https://github.com/treeverse/lakeFS/issues/8263)
 - 🟢 [Separate configurations for colorized and json logs in Task SDK / Celery Executor](https://github.com/apache/airflow/pull/51082) - apache/airflow | [Issue #50963](https://github.com/apache/airflow/issues/50963)
 - 🟢 [Fix/issue 6560 install trace bridge test](https://github.com/open-telemetry/opentelemetry-go/pull/6814) - open-telemetry/opentelemetry-go | [Issue #6560](https://github.com/open-telemetry/opentelemetry-go/issues/6560)
 - 🟢 [bridge/opencensus: add test for OTelSpanContextToOC function](https://github.com/open-telemetry/opentelemetry-go/pull/6813) - open-telemetry/opentelemetry-go | [Issue #6561](https://github.com/open-telemetry/opentelemetry-go/issues/6561)
