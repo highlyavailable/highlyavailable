@@ -10,7 +10,7 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6822](https://github.com/open-telemetry/opentelemetry-go/pull/6822#issuecomment-2971321396) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
+1. 🗣 Commented on [#9284](https://github.com/treeverse/lakeFS/issues/9284#issuecomment-3092623313) in [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
 2. 🗣 Commented on [#9097](https://github.com/treeverse/lakeFS/pull/9097#issuecomment-2953003318) in [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
 3. 🗣 Commented on [#6822](https://github.com/open-telemetry/opentelemetry-go/pull/6822#issuecomment-2922392616) in [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go)
 4. 🗣 Commented on [#51082](https://github.com/apache/airflow/pull/51082#issuecomment-2922063285) in [apache/airflow](https://github.com/apache/airflow)
