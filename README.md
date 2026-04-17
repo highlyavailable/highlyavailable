@@ -3,11 +3,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4256821436) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-2. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4189822540) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-3. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4143422475) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-4. 💪 Opened PR [#4610](https://github.com/DataDog/dd-trace-go/pull/4610) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-5. 🗣 Commented on [#51082](https://github.com/apache/airflow/pull/51082#issuecomment-2921918737) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4262790771) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+2. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4256821436) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+3. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4189822540) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+4. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4143422475) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+5. 💪 Opened PR [#4610](https://github.com/DataDog/dd-trace-go/pull/4610) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
 6. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2921106940) in [apache/airflow](https://github.com/apache/airflow)
 <!--END_SECTION:activity-->
 
