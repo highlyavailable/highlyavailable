@@ -3,12 +3,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4041](https://github.com/redpanda-data/connect/issues/4041#issuecomment-4465054874) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
-2. 💪 Opened PR [#4432](https://github.com/redpanda-data/connect/pull/4432) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
-3. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4464976503) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-4. 💪 Opened PR [#4590](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-5. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4415901847) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-6. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4262790771) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+1. ❗ Opened issue [#1027](https://github.com/temporalio/cli/issues/1027) in [temporalio/cli](https://github.com/temporalio/cli)
+2. 💪 Opened PR [#695](https://github.com/prometheus/statsd_exporter/pull/695) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+3. 💪 Opened PR [#1026](https://github.com/temporalio/cli/pull/1026) in [temporalio/cli](https://github.com/temporalio/cli)
+4. 🗣 Commented on [#4041](https://github.com/redpanda-data/connect/issues/4041#issuecomment-4465054874) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
+5. 💪 Opened PR [#4432](https://github.com/redpanda-data/connect/pull/4432) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
+6. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4464976503) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
 <!--END_SECTION:activity-->
 
 ## Recent PRs
