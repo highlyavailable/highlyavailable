@@ -3,12 +3,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1027](https://github.com/temporalio/cli/issues/1027) in [temporalio/cli](https://github.com/temporalio/cli)
-2. 💪 Opened PR [#695](https://github.com/prometheus/statsd_exporter/pull/695) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
-3. 💪 Opened PR [#1026](https://github.com/temporalio/cli/pull/1026) in [temporalio/cli](https://github.com/temporalio/cli)
-4. 🗣 Commented on [#4041](https://github.com/redpanda-data/connect/issues/4041#issuecomment-4465054874) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
-5. 💪 Opened PR [#4432](https://github.com/redpanda-data/connect/pull/4432) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
-6. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4464976503) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+1. ❌ Closed PR [#695](https://github.com/prometheus/statsd_exporter/pull/695) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+2. 🗣 Commented on [#695](https://github.com/prometheus/statsd_exporter/pull/695#issuecomment-4467595082) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+3. ❌ Closed PR [#48438](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/48438) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+4. 🗣 Commented on [#48438](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/48438#issuecomment-4467589563) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+5. 💪 Opened PR [#48438](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/48438) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+6. ❗ Opened issue [#1027](https://github.com/temporalio/cli/issues/1027) in [temporalio/cli](https://github.com/temporalio/cli)
 <!--END_SECTION:activity-->
 
 ## Recent PRs
