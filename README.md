@@ -3,12 +3,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4464976503) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-2. 💪 Opened PR [#4590](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-3. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4415901847) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-4. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4262790771) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-5. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4256821436) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
-6. 🗣 Commented on [#50990](https://github.com/apache/airflow/pull/50990#issuecomment-2921106940) in [apache/airflow](https://github.com/apache/airflow)
+1. 🗣 Commented on [#4041](https://github.com/redpanda-data/connect/issues/4041#issuecomment-4465054874) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
+2. 💪 Opened PR [#4432](https://github.com/redpanda-data/connect/pull/4432) in [redpanda-data/connect](https://github.com/redpanda-data/connect)
+3. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4464976503) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+4. 💪 Opened PR [#4590](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+5. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4415901847) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
+6. 🗣 Commented on [#4610](https://github.com/DataDog/dd-trace-go/pull/4610#issuecomment-4262790771) in [DataDog/dd-trace-go](https://github.com/DataDog/dd-trace-go)
 <!--END_SECTION:activity-->
 
 ## Recent PRs
