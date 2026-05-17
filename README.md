@@ -3,12 +3,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#695](https://github.com/prometheus/statsd_exporter/pull/695) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
-2. 🗣 Commented on [#695](https://github.com/prometheus/statsd_exporter/pull/695#issuecomment-4467595082) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
-3. ❌ Closed PR [#48438](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/48438) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-4. 🗣 Commented on [#48438](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/48438#issuecomment-4467589563) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-5. 💪 Opened PR [#48438](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/48438) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
-6. ❗ Opened issue [#1027](https://github.com/temporalio/cli/issues/1027) in [temporalio/cli](https://github.com/temporalio/cli)
+1. ℹ️ Reopened PR [#18921](https://github.com/influxdata/telegraf/pull/18921) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+2. ❌ Closed PR [#18921](https://github.com/influxdata/telegraf/pull/18921) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+3. 🗣 Commented on [#16885](https://github.com/influxdata/telegraf/issues/16885#issuecomment-4470966866) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+4. 💪 Opened PR [#18921](https://github.com/influxdata/telegraf/pull/18921) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+5. ❌ Closed PR [#695](https://github.com/prometheus/statsd_exporter/pull/695) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
+6. 🗣 Commented on [#695](https://github.com/prometheus/statsd_exporter/pull/695#issuecomment-4467595082) in [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
 <!--END_SECTION:activity-->
 
 ## Recent PRs
