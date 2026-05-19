@@ -13,6 +13,7 @@
 
 ## Recent PRs
 <!--START_SECTION:github-readme-actions-pinned_prs-->
+- 🟢 [fix: declare opentelemetry-semantic-conventions for aio-pika, logging, pika and system-metrics](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4594) - open-telemetry/opentelemetry-python-contrib | [Issue #4590](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/4590)
 - 🟢 [fix(confluent-kafka): declare opentelemetry-semantic-conventions as a direct dependency](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590) - open-telemetry/opentelemetry-python-contrib | [Issue #1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894)
 - 🟢 [prometheus: validate exponential histogram scale range (#6779)](https://github.com/open-telemetry/opentelemetry-go/pull/6822) - open-telemetry/opentelemetry-go | [Issue #6779](https://github.com/open-telemetry/opentelemetry-go/issues/6779)
 - 🟢 [fix: reduce API test memory consumption from 8.26GB to 1.57GB (#8263)](https://github.com/treeverse/lakeFS/pull/9097) - treeverse/lakeFS | [Issue #8263](https://github.com/treeverse/lakeFS/issues/8263)
