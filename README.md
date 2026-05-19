@@ -3,12 +3,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4480374639) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-2. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4479290114) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-3. 💪 Opened PR [#4594](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4594) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-4. 🎉 Merged PR [#4590](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-5. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4478415613) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
-6. 🗣 Commented on [#4590](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590#issuecomment-4478367434) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+1. 🎉 Merged PR [#4594](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4594) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+2. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4480374639) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+3. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4479290114) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+4. 💪 Opened PR [#4594](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4594) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+5. 🎉 Merged PR [#4590](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/4590) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
+6. 🗣 Commented on [#1894](https://github.com/open-telemetry/opentelemetry-python-contrib/issues/1894#issuecomment-4478415613) in [open-telemetry/opentelemetry-python-contrib](https://github.com/open-telemetry/opentelemetry-python-contrib)
 <!--END_SECTION:activity-->
 
 ## Recent PRs
