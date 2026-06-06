@@ -3,12 +3,12 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18921](https://github.com/influxdata/telegraf/pull/18921) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-2. 🗣 Commented on [#15312](https://github.com/open-telemetry/opentelemetry-collector/issues/15312#issuecomment-4503877547) in [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
-3. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4502406446) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-4. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4500085150) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-5. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4499676591) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
-6. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4498832917) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+1. 🗣 Commented on [#2130](https://github.com/astronomer/astronomer-cosmos/issues/2130#issuecomment-4636815506) in [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos)
+2. 💪 Opened PR [#2781](https://github.com/astronomer/astronomer-cosmos/pull/2781) in [astronomer/astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos)
+3. 🎉 Merged PR [#18921](https://github.com/influxdata/telegraf/pull/18921) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+4. 🗣 Commented on [#15312](https://github.com/open-telemetry/opentelemetry-collector/issues/15312#issuecomment-4503877547) in [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector)
+5. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4502406446) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
+6. 🗣 Commented on [#18921](https://github.com/influxdata/telegraf/pull/18921#issuecomment-4500085150) in [influxdata/telegraf](https://github.com/influxdata/telegraf)
 <!--END_SECTION:activity-->
 
 ## Recent PRs
