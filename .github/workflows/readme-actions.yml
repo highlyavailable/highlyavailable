@@ -24,6 +24,6 @@ jobs:
           github_token: ${{ secrets.DASHBOARD_PAT || secrets.GITHUB_TOKEN }}
           username: highlyavailable
           sections: activity_feed, open_prs, merged_prs, response_inbox
-          exclude_repositories: highlyavailable/github-readme-actions, highlyavailable/highlyavailable
+          exclude_repositories: highlyavailable/github-readme-actions, highlyavailable/highlyavailable, up-for-grabs/up-for-grabs.net
           merged_window_days: 0   # 0 = all-time merged wins; set e.g. 365 for last year
           max_rows: 15

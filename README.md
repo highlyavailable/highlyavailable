@@ -8,6 +8,14 @@
 - 📤 Opened PR #2781 in [`astronomer/astronomer-cosmos`](https://github.com/astronomer/astronomer-cosmos) _(3w)_
 <!--readme-actions:activity_feed:end-->
 
+## Awaiting my reply
+
+<!--readme-actions:response_inbox:start-->
+| PR | Ref | Last reply | Age |
+| --- | --- | --- | --- |
+| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | [@squiidz](https://github.com/squiidz) | 4w |
+<!--readme-actions:response_inbox:end-->
+
 ## Open pull requests
 
 <!--readme-actions:open_prs:start-->
@@ -16,7 +24,7 @@
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 4 | 4w |
 <!--readme-actions:open_prs:end-->
 
-## Merged pull requests
+## Recent merged pull requests
 
 <!--readme-actions:merged_prs:start-->
 | PR | Ref | Merged |
@@ -30,15 +38,6 @@
 | [Separate configurations for colorized and json logs in Task SDK / Celery Executor](https://github.com/apache/airflow/pull/51082) | [`apache/airflow#51082`](https://github.com/apache/airflow/pull/51082) | 2025-06-03 |
 | [Fix/issue 6560 install trace bridge test](https://github.com/open-telemetry/opentelemetry-go/pull/6814) | [`open-telemetry/opentelemetry-go#6814`](https://github.com/open-telemetry/opentelemetry-go/pull/6814) | 2025-05-26 |
 | [bridge/opencensus: add test for OTelSpanContextToOC function](https://github.com/open-telemetry/opentelemetry-go/pull/6813) | [`open-telemetry/opentelemetry-go#6813`](https://github.com/open-telemetry/opentelemetry-go/pull/6813) | 2025-05-23 |
-| [Create RateMyProfessors.com-Selenium-Scraper.yml](https://github.com/up-for-grabs/up-for-grabs.net/pull/3744) | [`up-for-grabs/up-for-grabs.net#3744`](https://github.com/up-for-grabs/up-for-grabs.net/pull/3744) | 2023-02-10 |
 <!--readme-actions:merged_prs:end-->
-
-## Awaiting my reply
-
-<!--readme-actions:response_inbox:start-->
-| PR | Ref | Last reply | Age |
-| --- | --- | --- | --- |
-| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | [@squiidz](https://github.com/squiidz) | 4w |
-<!--readme-actions:response_inbox:end-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=highlyavailable&theme=dark)](https://git.io/streak-stats)
