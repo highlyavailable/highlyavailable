@@ -3,6 +3,7 @@
 ## Recent activity
 
 <!--readme-actions:activity_feed:start-->
+- 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-4819241493) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(1h)_
 - 💬 Commented on PR [#2781 Support per-node callbacks via string import paths](https://github.com/astronomer/astronomer-cosmos/pull/2781#issuecomment-4650837008) in [`astronomer/astronomer-cosmos`](https://github.com/astronomer/astronomer-cosmos) _(2w)_
 - 💬 Commented on issue [#2130 Identify and document/create an example with the best way to retry model runs but not tests](https://github.com/astronomer/astronomer-cosmos/issues/2130#issuecomment-4636815506) in [`astronomer/astronomer-cosmos`](https://github.com/astronomer/astronomer-cosmos) _(3w)_
 - 📤 Opened PR #2781 in [`astronomer/astronomer-cosmos`](https://github.com/astronomer/astronomer-cosmos) _(3w)_
@@ -11,9 +12,7 @@
 ## Awaiting my reply
 
 <!--readme-actions:response_inbox:start-->
-| PR | Ref | Last reply | Age |
-| --- | --- | --- | --- |
-| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | [@squiidz](https://github.com/squiidz) | 4w |
+_No threads waiting on a response._
 <!--readme-actions:response_inbox:end-->
 
 ## Open pull requests
@@ -21,7 +20,7 @@
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 4 | 4w |
+| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 5 | 1h |
 <!--readme-actions:open_prs:end-->
 
 ## Recent merged pull requests
