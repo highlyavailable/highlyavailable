@@ -1,9 +1,12 @@
-# .github/workflows/readme-actions.yml
-name: README Actions
+# Renders the profile dashboard from highlyavailable/github-readme-actions (v2).
+# Recent activity, open PRs, merged PRs, and threads awaiting your reply —
+# excluding this profile repo and the action repo so their housekeeping
+# commits don't clutter the feed.
+name: README dashboard
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */6 * * *'   # every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -11,14 +14,16 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
     steps:
       - uses: actions/checkout@v4
-      - uses: highlyavailable/github-readme-actions@main
+      - uses: highlyavailable/github-readme-actions@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: 'highlyavailable'
-          ACTION_TYPE: 'pinned_prs'
-          START_DATE: '2025-05-01'
-          PR_STATE: 'merged'
-          MAX_LINES: 15
+          # DASHBOARD_PAT = fine-grained PAT with Pull requests: Read + Metadata: Read
+          # on the repos you contribute to. Without it, the cross-repo PR sections
+          # render empty (the public activity feed still works on GITHUB_TOKEN).
+          github_token: ${{ secrets.DASHBOARD_PAT || secrets.GITHUB_TOKEN }}
+          username: highlyavailable
+          sections: activity_feed, open_prs, merged_prs, response_inbox
+          exclude_repositories: highlyavailable/github-readme-actions, highlyavailable/highlyavailable
+          merged_window_days: 0   # 0 = all-time merged wins; set e.g. 365 for last year
+          max_rows: 15
