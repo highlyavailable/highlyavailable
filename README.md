@@ -3,8 +3,9 @@
 ## Recent activity
 
 <!--readme-actions:activity_feed:start-->
-- 📤 Opened PR #4598 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(1s)_
-- 📤 Opened PR #4597 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(10s)_
+- 📤 Opened PR #10478 in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(8m)_
+- 📤 Opened PR #4598 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(8m)_
+- 📤 Opened PR #4597 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(9m)_
 - 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-4819241493) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(2w)_
 <!--readme-actions:activity_feed:end-->
 
@@ -19,7 +20,9 @@ _No threads waiting on a response._
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [ffi: use correct glibc SONAME libc.so.6 in processor example](https://github.com/redpanda-data/connect/pull/4597) | [`redpanda-data/connect#4597`](https://github.com/redpanda-data/connect/pull/4597) | 🟡 open | 0 | 10s |
+| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 0 | 52s |
+| [ffi: use correct glibc SONAME libc.so.6 in processor example](https://github.com/redpanda-data/connect/pull/4597) | [`redpanda-data/connect#4597`](https://github.com/redpanda-data/connect/pull/4597) | 🟡 open | 0 | 4m |
+| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 0 | 6m |
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 5 | 2w |
 <!--readme-actions:open_prs:end-->
 
