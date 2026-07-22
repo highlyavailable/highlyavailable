@@ -4,9 +4,9 @@
 
 <!--readme-actions:activity_feed:start-->
 - 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-5027380168) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(1d)_
-- 📤 Opened PR #10478 in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(9d)_
-- 📤 Opened PR #4598 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(9d)_
-- 📤 Opened PR #4597 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(9d)_
+- 📤 Opened PR #10478 in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(10d)_
+- 📤 Opened PR #4598 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(10d)_
+- 📤 Opened PR #4597 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(10d)_
 - 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-4819241493) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(3w)_
 <!--readme-actions:activity_feed:end-->
 
@@ -22,9 +22,9 @@ _No threads waiting on a response._
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 6 | 1d |
-| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 0 | 9d |
-| [ffi: use correct glibc SONAME libc.so.6 in processor example](https://github.com/redpanda-data/connect/pull/4597) | [`redpanda-data/connect#4597`](https://github.com/redpanda-data/connect/pull/4597) | 🟡 open | 0 | 9d |
-| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 0 | 9d |
+| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 0 | 10d |
+| [ffi: use correct glibc SONAME libc.so.6 in processor example](https://github.com/redpanda-data/connect/pull/4597) | [`redpanda-data/connect#4597`](https://github.com/redpanda-data/connect/pull/4597) | 🟡 open | 0 | 10d |
+| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 0 | 10d |
 <!--readme-actions:open_prs:end-->
 
 ## Recent merged pull requests
