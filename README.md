@@ -3,7 +3,7 @@
 ## Recent activity
 
 <!--readme-actions:activity_feed:start-->
-- 📤 Opened PR #3248 in [`kubeflow/spark-operator`](https://github.com/kubeflow/spark-operator) _(3d)_
+- 📤 Opened PR #3248 in [`kubeflow/spark-operator`](https://github.com/kubeflow/spark-operator) _(4d)_
 <!--readme-actions:activity_feed:end-->
 
 ## Awaiting my reply
@@ -11,7 +11,7 @@
 <!--readme-actions:response_inbox:start-->
 | PR | Ref | Last reply | Age |
 | --- | --- | --- | --- |
-| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | [@chenraoCR](https://github.com/chenraoCR) | 17h |
+| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | [@chenraoCR](https://github.com/chenraoCR) | 1d |
 <!--readme-actions:response_inbox:end-->
 
 ## Open pull requests
@@ -19,7 +19,7 @@
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 1 | 17h |
+| [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 1 | 1d |
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 6 | 3mo |
 | [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 0 | 3mo |
 | [ffi: use correct glibc SONAME libc.so.6 in processor example](https://github.com/redpanda-data/connect/pull/4597) | [`redpanda-data/connect#4597`](https://github.com/redpanda-data/connect/pull/4597) | 🟡 open | 0 | 3mo |
