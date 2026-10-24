@@ -6,7 +6,7 @@
 - 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-6351121848) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(1d)_
 - 💬 Commented on PR [#10478 esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478#issuecomment-6351081716) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(1d)_
 - 💬 Commented on PR [#4598 opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598#issuecomment-6350370492) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(1d)_
-- 💬 Commented on PR [#169 fix: send Markdown-Patch-Version: 1 header and preserve frontmatter value types on PATCH](https://github.com/MarkusPfundstein/mcp-obsidian/pull/169#issuecomment-6347013672) in [`MarkusPfundstein/mcp-obsidian`](https://github.com/MarkusPfundstein/mcp-obsidian) _(1d)_
+- 💬 Commented on PR [#169 fix: send Markdown-Patch-Version: 1 header and preserve frontmatter value types on PATCH](https://github.com/MarkusPfundstein/mcp-obsidian/pull/169#issuecomment-6347013672) in [`MarkusPfundstein/mcp-obsidian`](https://github.com/MarkusPfundstein/mcp-obsidian) _(2d)_
 - 📤 Opened PR #3248 in [`kubeflow/spark-operator`](https://github.com/kubeflow/spark-operator) _(6d)_
 - 🚫 Closed PR #4597 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(3mo)_
 <!--readme-actions:activity_feed:end-->
