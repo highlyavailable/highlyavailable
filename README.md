@@ -3,19 +3,20 @@
 ## Recent activity
 
 <!--readme-actions:activity_feed:start-->
-- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721297898) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(2m)_
-- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430549557) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(2m)_
-- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721283475) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(5m)_
-- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430535430) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(5m)_
-- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721279311) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(6m)_
-- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721277373) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(6m)_
-- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721274463) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(7m)_
-- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430527977) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(7m)_
+- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721297898) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(41m)_
+- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430549557) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(41m)_
+- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721283475) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(44m)_
+- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430535430) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(44m)_
+- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721279311) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(45m)_
+- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430531774) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(45m)_
+- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721277373) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(46m)_
+- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721274463) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(46m)_
+- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430527977) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(46m)_
 - 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-6351121848) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(8d)_
 - 💬 Commented on PR [#10478 esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478#issuecomment-6351081716) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(8d)_
 - 💬 Commented on PR [#4598 opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598#issuecomment-6350370492) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(8d)_
 - 💬 Commented on PR [#169 fix: send Markdown-Patch-Version: 1 header and preserve frontmatter value types on PATCH](https://github.com/MarkusPfundstein/mcp-obsidian/pull/169#issuecomment-6347013672) in [`MarkusPfundstein/mcp-obsidian`](https://github.com/MarkusPfundstein/mcp-obsidian) _(8d)_
-- 📤 Opened PR #3248 in [`kubeflow/spark-operator`](https://github.com/kubeflow/spark-operator) _(12d)_
+- 📤 Opened PR #3248 in [`kubeflow/spark-operator`](https://github.com/kubeflow/spark-operator) _(13d)_
 - 🚫 Closed PR #4597 in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(3mo)_
 <!--readme-actions:activity_feed:end-->
 
@@ -30,7 +31,7 @@ _No threads waiting on a response._
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 2 | 29s |
+| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 2 | 40m |
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 7 | 8d |
 | [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 2 | 8d |
 <!--readme-actions:open_prs:end-->
