@@ -3,6 +3,7 @@
 ## Recent activity
 
 <!--readme-actions:activity_feed:start-->
+- 👀 Reviewed [#3802](https://github.com/llm-d/llm-d-router/pull/3802#pullrequestreview-5735651769) in [`llm-d/llm-d-router`](https://github.com/llm-d/llm-d-router) _(13s)_
 - 💬 Commented on issue [#3563 [ci] Sign the SBOMs attached to releases](https://github.com/llm-d/llm-d-router/issues/3563#issuecomment-6539563696) in [`llm-d/llm-d-router`](https://github.com/llm-d/llm-d-router) _(2d)_
 - 💬 Commented on issue [#1145 feature: add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/issues/1145#issuecomment-6539561347) in [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) _(2d)_
 - 📤 Opened PR #3802 in [`llm-d/llm-d-router`](https://github.com/llm-d/llm-d-router) _(2d)_
@@ -17,7 +18,6 @@
 - 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430530219) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(2d)_
 - 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721274463) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(2d)_
 - 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430527977) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(2d)_
-- 💬 Commented on PR [#4432 gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432#issuecomment-6351121848) in [`redpanda-data/connect`](https://github.com/redpanda-data/connect) _(11d)_
 <!--readme-actions:activity_feed:end-->
 
 ## Awaiting my reply
@@ -25,8 +25,8 @@
 <!--readme-actions:response_inbox:start-->
 | PR | Ref | Last reply | Age |
 | --- | --- | --- | --- |
-| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | [@elevran](https://github.com/elevran) | 11h |
-| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | [@itaigilo](https://github.com/itaigilo) | 13h |
+| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | [@elevran](https://github.com/elevran) | 13h |
+| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | [@itaigilo](https://github.com/itaigilo) | 14h |
 | [[Feat][Helm] Add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/pull/1186) | [`vllm-project/production-stack#1186`](https://github.com/vllm-project/production-stack/pull/1186) | [@gemini-code-assist[bot]](https://github.com/gemini-code-assist[bot]) | 2d |
 <!--readme-actions:response_inbox:end-->
 
@@ -35,9 +35,9 @@
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | 🟡 open | 0 | 11h |
-| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 2 | 13h |
-| [[Feat][Helm] Add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/pull/1186) | [`vllm-project/production-stack#1186`](https://github.com/vllm-project/production-stack/pull/1186) | 🟡 open | 0 | 2d |
+| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | 🟡 open | 0 | 5s |
+| [[Feat][Helm] Add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/pull/1186) | [`vllm-project/production-stack#1186`](https://github.com/vllm-project/production-stack/pull/1186) | 🟡 open | 0 | 13s |
+| [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 🟡 open | 2 | 36s |
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 7 | 10d |
 | [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 2 | 11d |
 <!--readme-actions:open_prs:end-->
