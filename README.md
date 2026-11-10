@@ -16,8 +16,8 @@
 - 📤 Opened PR #1186 in [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) _(9d)_
 - 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721297898) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(9d)_
 - 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430549557) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(9d)_
-- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721283475) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(9d)_
-- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430535430) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(9d)_
+- 👀 Reviewed [#10478](https://github.com/treeverse/lakeFS/pull/10478#pullrequestreview-5721283475) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(10d)_
+- 💬 Commented on PR [#10478](https://github.com/treeverse/lakeFS/pull/10478#discussion_r4430535430) in [`treeverse/lakeFS`](https://github.com/treeverse/lakeFS) _(10d)_
 <!--readme-actions:activity_feed:end-->
 
 ## Awaiting my reply
@@ -33,7 +33,7 @@
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | 🟡 open | 2 | 13s |
+| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | 🟡 open | 2 | 4m |
 | [[Feat][Helm] Add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/pull/1186) | [`vllm-project/production-stack#1186`](https://github.com/vllm-project/production-stack/pull/1186) | 🟡 open | 0 | 2d |
 | [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 7 | 2w |
 | [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 2 | 2w |
