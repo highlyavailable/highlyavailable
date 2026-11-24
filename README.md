@@ -25,7 +25,6 @@
 <!--readme-actions:response_inbox:start-->
 | PR | Ref | Last reply | Age |
 | --- | --- | --- | --- |
-| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | [@elevran](https://github.com/elevran) | 4h |
 | [feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572) | [`kaito-project/kaito#2572`](https://github.com/kaito-project/kaito/pull/2572) | [@zhuangqh](https://github.com/zhuangqh) | 1d |
 <!--readme-actions:response_inbox:end-->
 
@@ -34,7 +33,6 @@
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | 🟡 open | 3 | 4h |
 | [feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572) | [`kaito-project/kaito#2572`](https://github.com/kaito-project/kaito/pull/2572) | 🟡 open | 3 | 1d |
 | [feat: persist the vLLM compile cache on the node](https://github.com/kaito-project/kaito/pull/2526) | [`kaito-project/kaito#2526`](https://github.com/kaito-project/kaito/pull/2526) | 🟡 open | 0 | 4d |
 | [[Feat][Helm] Add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/pull/1186) | [`vllm-project/production-stack#1186`](https://github.com/vllm-project/production-stack/pull/1186) | 🟡 open | 0 | 2w |
@@ -47,6 +45,7 @@
 <!--readme-actions:merged_prs:start-->
 | PR | Ref | Merged |
 | --- | --- | --- |
+| [ci: sign the SBOM files attached to releases](https://github.com/llm-d/llm-d-router/pull/3802) | [`llm-d/llm-d-router#3802`](https://github.com/llm-d/llm-d-router/pull/3802) | 2026-11-24 |
 | [esti: test lakectl fs upload of files over 5GiB](https://github.com/treeverse/lakeFS/pull/10478) | [`treeverse/lakeFS#10478`](https://github.com/treeverse/lakeFS/pull/10478) | 2026-11-07 |
 | [docs: show how to set runtimeClassName with pod templates](https://github.com/kubeflow/spark-operator/pull/3248) | [`kubeflow/spark-operator#3248`](https://github.com/kubeflow/spark-operator/pull/3248) | 2026-10-21 |
 | [Support per-node callbacks via string import paths](https://github.com/astronomer/astronomer-cosmos/pull/2781) | [`astronomer/astronomer-cosmos#2781`](https://github.com/astronomer/astronomer-cosmos/pull/2781) | 2026-06-11 |
