@@ -3,8 +3,8 @@
 ## Recent activity
 
 <!--readme-actions:activity_feed:start-->
-- 💬 Commented on PR [#2572 feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572#issuecomment-7090199207) in [`kaito-project/kaito`](https://github.com/kaito-project/kaito) _(3d)_
-- 📤 Opened PR #2572 in [`kaito-project/kaito`](https://github.com/kaito-project/kaito) _(6d)_
+- 💬 Commented on PR [#2572 feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572#issuecomment-7090199207) in [`kaito-project/kaito`](https://github.com/kaito-project/kaito) _(4d)_
+- 📤 Opened PR #2572 in [`kaito-project/kaito`](https://github.com/kaito-project/kaito) _(7d)_
 - 📤 Opened PR #2526 in [`kaito-project/kaito`](https://github.com/kaito-project/kaito) _(2w)_
 - 💬 Commented on issue [#2325 Inference cold start: measured breakdown and proposed optimizations](https://github.com/kaito-project/kaito/issues/2325#issuecomment-6709244289) in [`kaito-project/kaito`](https://github.com/kaito-project/kaito) _(2w)_
 - 👀 Reviewed [#1186](https://github.com/vllm-project/production-stack/pull/1186#pullrequestreview-5813345844) in [`vllm-project/production-stack`](https://github.com/vllm-project/production-stack) _(2w)_
@@ -25,7 +25,7 @@
 <!--readme-actions:response_inbox:start-->
 | PR | Ref | Last reply | Age |
 | --- | --- | --- | --- |
-| [feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572) | [`kaito-project/kaito#2572`](https://github.com/kaito-project/kaito/pull/2572) | [@zhuangqh](https://github.com/zhuangqh) | 3d |
+| [feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572) | [`kaito-project/kaito#2572`](https://github.com/kaito-project/kaito/pull/2572) | [@zhuangqh](https://github.com/zhuangqh) | 4d |
 <!--readme-actions:response_inbox:end-->
 
 ## Open pull requests
@@ -33,10 +33,10 @@
 <!--readme-actions:open_prs:start-->
 | PR | Ref | State | Comments | Updated |
 | --- | --- | --- | --- | --- |
-| [feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572) | [`kaito-project/kaito#2572`](https://github.com/kaito-project/kaito/pull/2572) | 🟡 open | 3 | 3d |
-| [feat: persist the vLLM compile cache on the node](https://github.com/kaito-project/kaito/pull/2526) | [`kaito-project/kaito#2526`](https://github.com/kaito-project/kaito/pull/2526) | 🟡 open | 0 | 6d |
+| [feat: keep vLLM weights on the GPU across restarts with vllm preload](https://github.com/kaito-project/kaito/pull/2572) | [`kaito-project/kaito#2572`](https://github.com/kaito-project/kaito/pull/2572) | 🟡 open | 3 | 4d |
+| [feat: persist the vLLM compile cache on the node](https://github.com/kaito-project/kaito/pull/2526) | [`kaito-project/kaito#2526`](https://github.com/kaito-project/kaito/pull/2526) | 🟡 open | 0 | 7d |
 | [[Feat][Helm] Add a router-level Grafana dashboard](https://github.com/vllm-project/production-stack/pull/1186) | [`vllm-project/production-stack#1186`](https://github.com/vllm-project/production-stack/pull/1186) | 🟡 open | 0 | 2w |
-| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 7 | 4w |
+| [gcp: migrate Pub/Sub input and output to the pubsub/v2 SDK](https://github.com/redpanda-data/connect/pull/4432) | [`redpanda-data/connect#4432`](https://github.com/redpanda-data/connect/pull/4432) | 🟡 open | 7 | 5w |
 | [opensearch: support the create action in the output](https://github.com/redpanda-data/connect/pull/4598) | [`redpanda-data/connect#4598`](https://github.com/redpanda-data/connect/pull/4598) | 🟡 open | 2 | 5w |
 <!--readme-actions:open_prs:end-->
 
